@@ -1,6 +1,6 @@
 # Predicting-Rain-in-Austrailia-NN
 
-keywords: pytorch, Google Colab Notebook, logistic regression, relu, Adam optimizer, 3-layers
+keywords: PyTorch, Google Colab Notebook, logistic regression, relu, Adam optimizer, 3-layers
 
 This repo involves is a guide for beginners through a simple Neural Network Model that could predict (logistic regression) if it would rain tomorrow in a city (provided data: Austrailia). 
 
